@@ -1,25 +1,31 @@
 ---
 layout: project
-title: Analysis of Functions
-description: Class project with Graphs
+title: Statics Class Project I
+description: Rigid Bar Max Possible Weight
 technologies: [MATLAB, python]
 image: /assets/images/function-graph.png
 ---
 
 
-As part of a class project...Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut nec accumsan leo. Pellentesque ornare orci enim, vitae vestibulum nibh rutrum in. Donec pharetra risus nec ipsum fringilla, et mattis tortor auctor. Duis tortor ante, posuere ut odio a, scelerisque interdum purus. Pellentesque ornare orci enim, vitae vestibulum nibh rutrum in. Donec pharetra risus nec ipsum fringilla, et mattis tortor auctor. Duis tortor ante, posuere ut odio a, scelerisque interdum purus. Aenean faucibus luctus est, sed bibendum tellus. Nulla et magna urna. Morbi a ipsum sollicitudin, rhoncus risus volutpat, ultricies nunc. Quisque mollis finibus ante id imperdiet. Quisque vehicula elit sit amet felis facilisis fermentum.
-
-
-Aenean faucibus luctus est, sed bibendum tellus. Nulla et magna urna. Morbi a ipsum sollicitudin, rhoncus risus volutpat, ultricies nunc. Quisque mollis finibus ante id imperdiet. Quisque vehicula elit sit amet felis facilisis fermentum.
-
+As part of a Statics class assignment, we were asked to design a rigid bar of fixed length with 3 pin supports that could lift the maximum possible weight to the highest possible height.
 
 This is how I solved the problem:
 
 ```python
-    some code = 10;
+    #A is the pin on the floor and holding the end of the bar
+    #B is the pin connected to the wall and the other end of the bar
+    #C is the pin on the floor holding the actuator
+    L=1.3 #length of the bar (in m);
+    d=0.4 #length from point A to actuator (in m)
+    x=1.2 #length from A to C (in m)
+    h=0.5 #length from C to B (in m), also the max height
+    
+    F_max=58000 #RSA Actuator max force (in N)
+    pheta=22.62 #angle from A to the ground
+
+    W_max=(F_max*d*cos(pheta))/(L*cos(pheta)) #max weight that can be lifted from the height h=0.5m
     plot();
 ```
-
-Aenean tincidunt aliquam arcu, in euismod dui dapibus eu. In placerat, mi et ultrices consequat, quam ligula cursus mauris, in semper neque nibh at est. Maecenas hendrerit dignissim porta. Phasellus nec fringilla dolor. Etiam efficitur nisi sit amet velit pharetra feugiat. Etiam ultrices turpis at leo semper, eleifend scelerisque neque malesuada. Aliquam molestie congue rhoncus. Donec blandit neque dolor, nec tristique mi pretium ac. Mauris tincidunt ullamcorper magna, nec pellentesque mi sagittis quis.
-
-
+git add .
+git commit -m "<Commit Edit>"
+git push origin main
