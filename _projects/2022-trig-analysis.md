@@ -10,6 +10,7 @@ image: /assets/images/function-graph.png
 As part of a Statics class assignment, we were asked to design a rigid bar of fixed length with 3 pin supports that could lift the maximum possible weight to the highest possible height.
 
 This is a diagram:
+
 ![Image 10-10-25 at 4 58 PM](https://github.com/user-attachments/assets/3788ef87-fca1-4d51-abec-60dc8e50bdeb)
 
 
