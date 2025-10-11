@@ -1,6 +1,6 @@
 ---
 layout: project
-title: Statics Class Project I
+title: Test
 description: Rigid Bar Max Possible Weight
 technologies: [MATLAB, python]
 image: /assets/images/function-graph.png
