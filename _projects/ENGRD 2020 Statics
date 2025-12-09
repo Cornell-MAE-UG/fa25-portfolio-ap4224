@@ -11,8 +11,19 @@ As part of a Statics class assignment, we were asked to design a rigid bar of fi
 
 This is a diagram:
 
-![Bar Mechanism Diagram](/assets/images/bar1.png)
+## Mechanism Diagram
 
+![Rigid Bar Diagram](/assets/images/bar1.png)
+
+Or view the PDF version:
+
+[Open diagram PDF](/assets/images/bar1.pdf)
+
+---
+
+## Static Analysis
+
+```python
 
 This is how I solved the problem:
 
