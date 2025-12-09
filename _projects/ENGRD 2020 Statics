@@ -44,5 +44,4 @@ This is how I solved the problem:
     plot();
 ```
 Here is a continuation of the previous work with new additions:
-
-/assets/images/Mechanism Design Report -.pdf
+![Photo of work]({{ "/assets/images/Mechanism Design Report -.pdf" | relative_url }}){: .inline-image-l}
