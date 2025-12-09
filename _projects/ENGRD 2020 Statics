@@ -33,7 +33,7 @@ This is how I solved the problem:
     plot();
 ```
 Here is a continuation of the previous work with new additions:
-assets/images/mechanism-design-report.pdf
+/assets/images/mechanism-design-report.pdf
 git add .
 git commit -m "<Commit Edit>"
 git push origin main
