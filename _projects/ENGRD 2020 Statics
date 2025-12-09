@@ -13,7 +13,10 @@ This is a diagram:
 
 ## Mechanism Diagram
 
-![Rigid Bar Diagram](/assets/images/bar1.png)
+
+![Photo of old radio]({{ "/assets/images/bar1.jpg" | relative_url }}){: .inline-image-l}
+
+![Photo of old radio]({{ "/assets/images/old-radio.jpg" | relative_url }}){: .inline-image-l}
 
 Or view the PDF version:
 
