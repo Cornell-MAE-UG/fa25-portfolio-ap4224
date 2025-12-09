@@ -32,6 +32,8 @@ This is how I solved the problem:
     W_max=(F_max*d*cos(pheta))/(L*cos(pheta)) #max weight that can be lifted from the height h=0.5m
     plot();
 ```
+Here is a continuation of the previous work with new additions:
+assets/images/mechanism-design-report.pdf
 git add .
 git commit -m "<Commit Edit>"
 git push origin main
