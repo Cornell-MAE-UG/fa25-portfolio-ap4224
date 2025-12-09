@@ -13,10 +13,8 @@ This is a diagram:
 
 ## Mechanism Diagram
 
+![Shaded rendering of earlier version]({{ "/assets/images/old-radio.jpg" | relative_url }}){: .inline-image-r style="width: 200px"}![Photo of old radio]({{ "/assets/images/bar1.jpg" | relative_url }}){: .inline-image-l}
 
-![Photo of old radio]({{ "/assets/images/bar1.jpg" | relative_url }}){: .inline-image-l}
-
-![Photo of old radio]({{ "/assets/images/old-radio.jpg" | relative_url }}){: .inline-image-l}
 
 Or view the PDF version:
 
