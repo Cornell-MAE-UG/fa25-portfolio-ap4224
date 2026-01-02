@@ -1,0 +1,10 @@
+---
+layout: project
+title: Rover Wheel
+description: CAD Design and 3D Printed Wheel
+technologies: [Autodesk Fusion] [3D Printing]
+image: /assets/images/rover_wheel.jpg
+image: /assets/images/red_rover_wheel.jpg
+---
+
+I designed a wheel for the Mars Rover Project Team using Autodesk Fusion 360. Some thing that I focused on were tread design, dimensions, lightening hole shapes, wheel curvature, etc.
