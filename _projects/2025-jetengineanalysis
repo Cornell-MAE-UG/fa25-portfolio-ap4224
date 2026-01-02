@@ -10,9 +10,8 @@ On the left is an image of a jet engine (taken from Wikimedia Commons), which is
 Air enters the engine through the inlet, where it is slowed down and slightly compressed. Then, the compressor increases the pressure and temperature of the air by doing shaft work on it. Then this air enters the combustion chamber where fuel is burned which significantly increases the temperature. The hot gases expand through the turbine, which extracts work to drive the compressor. Finally, the remaining exhaust expands through the nozzle, converting thermal energy into kinetic energy. Thrust is produced by the jet engine to propel the jet forward.
 
 Here are some equations and analysis of a standard jet engine:
+![Photo of old radio]({{ "/assets/images/old-radio.jpg" | relative_url }}){: .inline-image-l}
+
 
 One improvement we could make is increasing the compressor pressure ratio while keeping a reasonable turbine inlet temperature. This would create a higher exit velocity, which would lead to higher thrust. One tradeoff is that excessive pressure ratios increase compressor work and entropy generation.
 
----
-image: /assets/images/jet engine.jpg
----
