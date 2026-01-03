@@ -9,49 +9,7 @@ image: /assets/images/ritz.jpeg
 
 As part of a Statics class assignment, we were asked to design a rigid bar of fixed length with 3 pin supports that could lift the maximum possible weight to the highest possible height.
 
-This is a diagram:
+This image shows what the problem was and how I solved it:
 
-## Mechanism Diagram
+![Photo of analysis]({{ "/assets/images/Mechanism Design Report -.pdf" | relative_url }}){: .inline-image-l}
 
-
-
-![Shaded rendering of earlier version]({{ "/assets/images/radio-machine.jpg" | relative_url }}){: .inline-image-r style="width: 200px"}
-
-![Shaded rendering of earlier version]({{ "/assets/images/old-radio.jpg" | relative_url }}){: .inline-image-r style="width: 200px"}
-
-![Photo of old radio]({{ "/assets/images/bar1.jpg" | relative_url }}){: .inline-image-l}
-
-
-Or view the PDF version:
-
-[Open diagram PDF](/assets/images/bar1.pdf)
-
----
-
-## Static Analysis
-
-```python
-
-This is how I solved the problem:
-
-```python
-    #A is the pin on the floor and holding the end of the bar
-    #B is the pin connected to the wall and the other end of the bar
-    #C is the pin on the floor holding the actuator
-
-    L=1.3 #length of the bar (in m);
-    d=0.4 #length from point A to actuator (in m)
-    x=1.2 #length from A to C (in m)
-    h=0.5 #length from C to B (in m), also the max height
-    
-    F_max=58000 #RSA Actuator max force (in N)
-    pheta=22.62 #angle from A to the ground
-
-    W_max=(F_max*d*cos(pheta))/(L*cos(pheta)) #max weight that can be lifted from the height h=0.5m
-    plot();
-```
-Here is a continuation of the previous work with new additions:
-
-/assets/images/old-radio.jpg
-
-"/assets/images/old-radio.jpg"
