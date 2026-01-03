@@ -1,6 +1,6 @@
 ---
 layout: default
-title: <Your Name> - Portfolio
+title: Ash Puri Portfolio
 permalink: /projects/
 ---
 
