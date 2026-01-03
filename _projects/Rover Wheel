@@ -1,9 +1,9 @@
 ---
 layout: project
-title: Radio CAD Rendering
+title: Wheel CAD
 description: Advanced CAD Project
 technologies: [Autodesk Fusion]
-image: /assets/images/radio-machine-cad.jpg
+image: /assets/images/nasarover.jpg
 ---
 image: /assets/images/rover_wheel.jpg
 image: /assets/images/red_rover_wheel.jpg
