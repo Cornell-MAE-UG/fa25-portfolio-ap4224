@@ -17,7 +17,7 @@ The main focus was on treads. The treads had to be designed so that the sand cou
 
 As for the dimensions, I increased the diameter to 10.5 in and the width to 4 in so that the rover doesn't get stuck in holes. Increased diameter makes it easier to climb out of holes. A wheel escapes a hole by rotating up the exit slope, and with a larger radius, there is lesser curvature at the contact point of the hole. Larger radius also reduces how deep the wheel can fall inside a hole with the same width. As for increasing the width to 4 in, a wheel cannot fall into a hole that has a smaller width than the wheel. With a 4 in width, the hole must be wider than 4 in and deeper than 0.396 in (some calculations shown below) before the wheel sinks in and tries to escape.
 
-![Photo of calculations]({{ "/assets/images/wheel_calculations.jpg" | relative_url }}){: .inline-image-l}
+![Photo of calculations]({{ "/assets/images/wheel_calcs.jpg" | relative_url }}){: .inline-image-l}
 
 For the lightening holes, I added 20 curved lightening holes to reduce mass and preserve structural integrity. Lower mass leads to lower required motor torque and lower rotational inertia, which means easier acceleration and quicker turns. It's also easier to manufacture since it takes lesser time to print out and reduces the thermal gradients. I also ensured that there was enough space between the lightening holes so that the bars don't become too thin and buckle easily due to the heavy weight being carried by the wheel. The lightening holes were intentionally curved rather than left straight. This arched geometry allows controlled deformation under loading by allowing the holes to fall into themselves rather than being squished towards the center of the wheel.
 
