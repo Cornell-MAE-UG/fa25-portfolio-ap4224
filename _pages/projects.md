@@ -16,3 +16,7 @@ permalink: /projects/
     {% endfor %}
 </div>
 </div>
+
+collections:
+  projects:
+    output: true
