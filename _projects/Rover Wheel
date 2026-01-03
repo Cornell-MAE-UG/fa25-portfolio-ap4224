@@ -21,3 +21,6 @@ For the lightening holes, I added 20 and shaped it so that it would take up more
 ![Photo of wheel]({{ "/assets/images/rover_wheel.jpg" | relative_url }}){: .inline-image-l}
 ![Photo of wheel]({{ "/assets/images/red_rover_wheel.jpg" | relative_url }}){: .inline-image-l}
 
+![Rover wheel]({{ "/assets/images/rover_wheel.jpg" | relative_url }})
+![Red rover wheel]({{ "/assets/images/red_rover_wheel.jpg" | relative_url }})
+
