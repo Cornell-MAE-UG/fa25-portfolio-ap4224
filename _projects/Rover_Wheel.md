@@ -25,3 +25,4 @@ Here are the front and side views of a previous wheel design that I printed out.
 
 ![Photo of front view]({{ "/assets/images/prototype_full.jpg" | relative_url }}){: .inline-image-l}
 ![Photo of side view]({{ "/assets/images/prototype_side.jpg" | relative_url }}){: .inline-image-l}
+ 
