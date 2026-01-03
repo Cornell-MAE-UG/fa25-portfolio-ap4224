@@ -5,7 +5,7 @@ description: Advanced CAD Project
 technologies: [Autodesk Fusion]
 image: /assets/images/nasarover.jpg
 ---
-
+ 
 I designed a wheel for the Mars Rover Project Team using Autodesk Fusion 360. Some things that I focused on were tread design, dimensions, lightening hole shapes, etc.
 
 ![Photo of wheel]({{ "/assets/images/rover_wheel.jpg" | relative_url }}){: .inline-image-l}
