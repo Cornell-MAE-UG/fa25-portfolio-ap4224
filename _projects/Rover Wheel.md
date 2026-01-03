@@ -19,5 +19,5 @@ As for the dimensions, I increased the diameter to 10.5 in and the width to 4 in
 
 ![Photo of calculations]({{ "/assets/images/wheel_calculations.jpg" | relative_url }}){: .inline-image-l}
 
-For the lightening holes, I added 20 and shaped it so that it would take up more space while maintaining a safe distance between the next lightening hole. The goal of the lightening holes was to remove mass from the overall wheel. Lower mass leads to lower motor torque required and lower rotational intertia, which means easier acceleration and ability to turn around. It's also easier to manufacture since it takes lesser time to print out and reduces the thermal gradients.
+For the lightening holes, I added 20 and shaped it so that it would take up more space while maintaining a safe distance between the next lightening hole. The goal of the lightening holes was to remove mass from the overall wheel. Lower mass leads to lower required motor torque and lower rotational intertia, which means easier acceleration and quicker turns. It's also easier to manufacture since it takes lesser time to print out and reduces the thermal gradients. I also added fillets at all edges to reduce stress concentrations.
 
