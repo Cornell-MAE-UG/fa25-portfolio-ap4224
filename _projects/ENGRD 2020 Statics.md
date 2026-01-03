@@ -9,7 +9,42 @@ image: /assets/images/ritz.jpeg
 
 As part of a Statics class assignment, we were asked to design a rigid bar of fixed length with 3 pin supports that could lift the maximum possible weight to the highest possible height.
 
-![Photo of wheel]({{ "/assets/images/mech.jpg" | relative_url }}){: .inline-image-l}
 
 This image shows what the problem was and how I solved it:
 
+![Photo of wheel]({{ "/assets/images/mech.jpg" | relative_url }}){: .inline-image-l}
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+   
+ 
+ 
+ 
+  
+   
+ 
+ 
+     
