@@ -18,11 +18,13 @@ B is the pin connected to the wall and the other end of the bar
 C is the pin on the floor holding the actuator
 
 L=1.3 #length of the bar (in m);
+
 d=0.4 #length from point A to actuator (in m)
+
 x=1.2 #length from A to C (in m)
+
 h=0.5 #length from C to B (in m), also the max height
     
 F_max=58000 #RSA Actuator max force (in N)
-pheta=22.62 #angle from A to the ground
 
-W_max=(F_max*d*cos(pheta))/(L*cos(pheta)) #max weight that can be lifted from the height h=0.5m
+pheta=22.62 #angle from A to the ground
