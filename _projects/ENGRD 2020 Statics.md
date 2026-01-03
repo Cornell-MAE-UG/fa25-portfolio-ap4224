@@ -11,5 +11,5 @@ As part of a Statics class assignment, we were asked to design a rigid bar of fi
 
 This image shows what the problem was and how I solved it:
 
-![Photo of analysis]({{ "/assets/images/Mechanism Design Report -.pdf" | relative_url }}){: .inline-image-l}
+![Photo of analysis]({{ "/assets/images/mech.jpg" | relative_url }})
 
