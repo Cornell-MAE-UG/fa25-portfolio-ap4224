@@ -1,8 +1,8 @@
 ---
 layout: project
-title: Rover Wheel
-description: CAD Design and 3D Printed Wheel
-technologies: [Autodesk Fusion] [3D Printing]
+title: Radio CAD Rendering
+description: Advanced CAD Project
+technologies: [Autodesk Fusion]
 image: /assets/images/radio-machine-cad.jpg
 ---
 image: /assets/images/rover_wheel.jpg
