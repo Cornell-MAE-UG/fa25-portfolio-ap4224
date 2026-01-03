@@ -17,5 +17,9 @@ As for the dimensions, I increased the diameter to 10.5 in and the width to 4 in
 For the lightening holes, I added 20 and shaped it so that it would take up more space while maintaining a safe distance between the next lightening hole. The goal of the lightening holes was to remove mass from the overall wheel. Lower mass leads to lower motor torque required and lower rotational intertia, which means easier acceleration and ability to turn around. It's also easier to manufacture since it takes lesser time to print out and reduces the thermal gradients.
 ![image name here]({{ "/assets/images/red_rover_wheel.jpg" | relative_url }})
 
+<img src="assets/images/vscode-clone.jpg" width="500" />
 
+![Heat exchanger setup]({{ "/assets/images/IMG_1826.jpeg" | relative_url }})
 
+![Photo of old radio]({{ "/assets/images/old-radio.jpg" | relative_url }}){: .inline-image-l}
+![Photo of wheel]({{ "/assets/images/red_rover_wheel.jpg" | relative_url }}){: .inline-image-l}
