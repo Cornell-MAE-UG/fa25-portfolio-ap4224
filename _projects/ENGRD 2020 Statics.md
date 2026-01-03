@@ -25,6 +25,6 @@ x=1.2 #length from A to C (in m)
 
 h=0.5 #length from C to B (in m), also the max height
     
-F_max=58000 #RSA Actuator max force (in N)
+F_max=9000 #RSA Actuator max force (in N)
 
 pheta=24.62 #angle from A to the ground
