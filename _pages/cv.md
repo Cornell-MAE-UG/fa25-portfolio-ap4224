@@ -1,11 +1,11 @@
 ---
 layout: default
 title: Ash Puri - Curriculum Vitae
-permalink: /cv/
+permalink: /assets/images/Ashima (Ash) Puri Resume.pdf
 ---
 ## Curriculum Vitae
 
-[Download my CV]({{ "/assets/CV.pdf" | relative_url }}) in PDF format.
+[Download my CV]({{ "/assets/images/Ashima (Ash) Puri Resume.pdf" | relative_url }}) in PDF format.
 
 
 **Email:** ap2457@cornell.edu | | | **Phone:** 3853584150
