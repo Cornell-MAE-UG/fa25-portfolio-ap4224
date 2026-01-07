@@ -30,7 +30,7 @@ Aspiring engineering student with a strong foundation in aerospace and robotics 
 
 #### Skills
 - **Software:** Autodesk Fusion 360, SolidWorks, ANSYS  
-- **Programming:** Python, MATLAB  
+- **Programming:** Python, MATLAB, C++  
 - **Tools:** 3D Printing, Laser Cutting  
 
 
