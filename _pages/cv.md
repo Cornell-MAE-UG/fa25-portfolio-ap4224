@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Ash Puri - Curriculum Vitae
-permalink: /assets/images/Ashima (Ash) Puri Resume.pdf
+permalink: /cv/
 ---
 ## Curriculum Vitae
 
