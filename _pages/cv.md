@@ -5,7 +5,7 @@ permalink: /cv/
 ---
 ## Curriculum Vitae
 
-[Download my CV]({{ "/assets/images/Ashima (Ash) Puri Resume.pdf" | relative_url }}) in PDF format.
+[Download my CV]({{ "/assets/images/Ashima_(Ash)_Puri_Resume.pdf" | relative_url }}) in PDF format.
 
 
 **Email:** ap2457@cornell.edu | | | **Phone:** 3853584150
