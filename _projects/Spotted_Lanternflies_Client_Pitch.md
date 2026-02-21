@@ -3,7 +3,7 @@ layout: project
 title: Client Pitch
 description: Pitch for clients about devices to remove spotted lanternflies from grapevines
 technologies: [Fusion 360, Sketching]
-image: /assets/images/ritz.jpeg
+image: /assets/images/Spotted_Lanternfly.jpg
 ---
 
 
