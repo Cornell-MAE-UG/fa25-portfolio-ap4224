@@ -34,9 +34,8 @@ Explain your original idea from O3.
 - Feature 3
 
 ### Visuals
-![Pitch Image](images/pitch.png)
 
-📎 [View Full Pitch (PDF)](link-to-your-pdf)
+[Download pitch]({{ "/assets/images/Guardians of the Grapevine Client Pitch.pdf" | relative_url }}) in PDF format.
 
 ---
 
