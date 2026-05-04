@@ -56,7 +56,7 @@ Briefly explain how you made it.
 ### Visuals
 ![Prototype Image](images/prototype.png)
 
-📎 [View Prototype Documentation (PDF)](link-to-your-pdf)
+[Download pitch]({{ "/assets/images/Functional Prototype.pdf" | relative_url }}) in PDF format.
 
 ---
 
