@@ -58,7 +58,6 @@ We developed a working prototype consisting of a vibrating pole mounted on a 3D-
 
 
 ### Visuals
-![Prototype Image](images/prototype.png)
 
 [Download pitch]({{ "/assets/images/Functional Prototype.pdf" | relative_url }}) in PDF format.
 
@@ -93,6 +92,5 @@ The device demonstrates a pesticide-free alternative that successfully reduces S
 - Test device effectiveness at the larger vineyard scale  
 
 ### Visuals
-![Final Prototype](images/final.png)
 
-📎 [Download Full Client Report (PDF)](link-to-your-pdf)
+[Download pitch]({{ "/assets/images/Guardians of the Grapevine Client Report.pdf" | relative_url }}) in PDF format.
