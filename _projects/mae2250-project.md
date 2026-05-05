@@ -2,6 +2,7 @@
 title: "MAE 2250 Project"
 excerpt: "Designing and prototyping a solution to [brief problem statement]."
 collection: projects
+image: /assets/images/Spotted_Lanternfly.jpg
 ---
 
 # MAE 2250 Project
